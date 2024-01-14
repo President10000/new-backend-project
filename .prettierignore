@@ -1,0 +1,17 @@
+*.env 
+.env.example
+```
+.env.*
+/.vscode
+/node_modules
+
+./dist
+./coverage
+./.nyc_output
+./.cache
+./.idea
+./.DS_Store
+./.vscode
+./.gitignore
+./.git
+./.gitattributes
